@@ -45,7 +45,7 @@ mkdir models
 cd models
 
 # Clone our pre-trained model
-hf download xuan-luo/FlexiDepth-Llama-3-8B-Instruct --local_dir ./FlexiDepth-Llama-3-8B-Instruct
+hf download xuan-luo/FlexiDepth-Llama-3-8B-Instruct --local-dir ./FlexiDepth-Llama-3-8B-Instruct
 
 cd ..
 ```
